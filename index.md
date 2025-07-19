@@ -1,5 +1,5 @@
 ---
-title: Ice And Fire: Community Edition
+title: "Ice And Fire: Community Edition"
 ---
 
 # Ice And Fire: Community Edition
