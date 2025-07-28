@@ -5,7 +5,7 @@ title: New Content
 # New Content
 
 ## Ice and Fire: Smithing
-See [this page](https://docs.iafenvoy.com/docs/mod/ice-and-fire-ce/smithing) for crafts modified by this addon.
+See [this page](https://modrinth.com/datapack/iceandfire_smithing) for crafts modified by this addon.
 
 ## Netherite Dragon Armor
 
