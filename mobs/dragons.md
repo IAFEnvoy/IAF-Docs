@@ -22,7 +22,7 @@ Colors: (first row on image)
 * Red
 
 ### Ice Dragons
-Ice Dragons breathe ice, leaving spikes and freezeing mobs. Unlike fire and lightning, they can swim. They spawn in cold biomes(temperature <=-0,5).
+Ice Dragons breathe ice, leaving spikes and freezeing mobs. Unlike fire and lightning, they can swim. They spawn in cold biomes(temperature \<=-0,5).
 Colors: (second row on image)
 * Silver White
 * Gem Blue
